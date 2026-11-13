@@ -1,7 +1,7 @@
 # OEIS A007097: logarithmic product asymptotic (not yet submitted)
 
 <!-- oeis-status:begin -->
-**OEIS status: not submitted** (lab registry, 13 Nov 2026).
+**OEIS status: not submitted** (lab registry, 14 Nov 2026).
 
 - [A007097](https://oeis.org/A007097), conjecture of Mar 26 2015 false; corrected asymptotic: **candidate** (2026-11-13: repository built (core c5)). Certificate: partial.
 
