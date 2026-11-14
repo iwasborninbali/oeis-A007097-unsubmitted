@@ -3,7 +3,7 @@
 <!-- oeis-status:begin -->
 **OEIS status: not submitted** (lab registry, 15 Nov 2026).
 
-- [A007097](https://oeis.org/A007097), conjecture of Mar 26 2015 false; corrected asymptotic: **candidate** (2026-11-13: repository built (core c5)). Certificate: partial.
+- [A007097](https://oeis.org/A007097), conjecture of Mar 26 2015 false; corrected asymptotic: **verified** (2026-11-15: certificate complete: guide's proof reading, referee to n = 14, prior art (MO 357765 unresolved)). Certificate: complete.
 
 Rules and the full registry: [athanor-oeis](https://github.com/iwasborninbali/athanor-oeis/blob/main/REGISTRY.md).
 <!-- oeis-status:end -->
