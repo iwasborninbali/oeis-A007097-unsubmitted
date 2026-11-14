@@ -1,0 +1,19 @@
+method=odd-only segmented Eratosthenes; primes counted by rank; no external sequence data
+target_n=14
+n=0 a=1
+n=1 a=2
+n=2 a=3 P_over_a=0.253833336806 normalized=2.698981393178
+n=3 a=5 P_over_a=0.245117397417 normalized=0.515076961502
+n=4 a=11 P_over_a=0.267166294794 normalized=0.305475562658
+n=5 a=31 P_over_a=0.325545226314 normalized=0.263872425655
+n=6 a=127 P_over_a=0.384937491515 normalized=0.243974208300
+n=7 a=709 P_over_a=0.452591831161 normalized=0.240538416133
+n=8 a=5381 P_over_a=0.512288897423 normalized=0.238199452684
+n=9 a=52711 P_over_a=0.568603161231 normalized=0.238283749641
+n=10 a=648391 P_over_a=0.618589665106 normalized=0.238475930296
+n=11 a=9737333 P_over_a=0.662819911526 normalized=0.238571192470
+n=12 a=174440041 P_over_a=0.702132447462 normalized=0.238558264061
+n=13 a=3657500101 P_over_a=0.737393140036 normalized=0.238487807074
+n=14 a=88362852307 P_over_a=0.769299672706 normalized=0.238392389161
+elapsed_wall_seconds=172.975
+elapsed_cpu_seconds=172.863
